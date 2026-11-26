@@ -7,7 +7,7 @@ A simple text-based RPG game developed in C.
 -   Quality of Life
 -   Save/Load
 -   Map 20x10
--   Scens: 5 scen
+-   Scens: 6 scen
 -   Inventory: 3 types and 5 items for every type
 -   Schopnosti 5 rôznych schopností
 -   Abilities: 5 different abilities
